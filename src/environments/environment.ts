@@ -4,8 +4,6 @@ export const environment = {
   angUrl: 'http://localhost:4200'
 
 
-
-
 };
 
 /*
